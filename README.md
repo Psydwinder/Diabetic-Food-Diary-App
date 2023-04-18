@@ -6,3 +6,4 @@ Contributors
 
 [Niete Ratilal](https://github.com/Psydwinder)
 
+You can see the figma design [here]()
