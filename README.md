@@ -13,14 +13,21 @@ At the moment there a few apps that allow you to create a food diary, however no
 Some notable apps are:
 
 - Figwee Visual Food Diary (Android) - This app is no longer available on newer devices as it was made for older versions of android.
-- Your Food (Android & iOS) - Your Food Journal offers tips and insights as you keep logging what you eat to help you make more informed decisions each day. It can:
+
+- [Your Food](https://apps.apple.com/us/app/your-food-journal/id1526909269) (Android & iOS) - Your Food Journal offers tips and insights as you keep logging what you eat to help you make more informed decisions each day. It can:
 
     - Help easily track your meals and water each day
     - Log journal entries and help set goals as you better plan ahead
     - See insights as you log your meals and water to help you make decisions
     - Get notifications throughout the day
     
-- Carb Manager (Android & iOS) - 
+- [Carb Manager](https://www.carbmanager.com/) (Android & iOS) - 
+
+- [Ate](https://youate.com/) (Android & iOS) - 
+
+- Noom 
+
+- [Food Diary See How You Eat App](https://play.google.com/store/apps/details?id=fi.seehowyoueat.shye&hl=en_GB&gl=US&pli=1) (Android) -
 
 
 ## The user stories
