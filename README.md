@@ -1,9 +1,5 @@
 # Diabetic-Food-Diary-App
 
-Contributors
-
-[Niete Ratilal](https://github.com/Psydwinder)
-
 ## The concept
 
 **Do you know what standard portion sizes look like?** 
