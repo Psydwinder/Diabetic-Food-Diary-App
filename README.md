@@ -25,7 +25,7 @@ Some notable apps are:
 
 - [Ate](https://youate.com/) (Android & iOS) - 
 
-- Noom 
+- [My Fitness Pal](https://www.myfitnesspal.com/) (Android & iOS) - 
 
 - [Food Diary See How You Eat App](https://play.google.com/store/apps/details?id=fi.seehowyoueat.shye&hl=en_GB&gl=US&pli=1) (Android) -
 
