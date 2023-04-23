@@ -23,6 +23,14 @@ Some notable apps are:
 
 ![image](https://user-images.githubusercontent.com/101563800/233860680-cb11e6d1-ad19-465c-836d-7788c862d6cc.png)
 
+- **Elements that can be carried over**
+    - Simple colour coded design
+    - Titles at the top of the page
+    - The form for adding a food to the diary is simple
+    - Meal type Breakfast, Lunch, Dinner, Snack, Dessert option
+    - Large colourful buttons
+    - Tips to stay hydrated are bright and easy to read 
+
 
 - [Carb Manager](https://www.carbmanager.com/) (Android & iOS) - 
 
