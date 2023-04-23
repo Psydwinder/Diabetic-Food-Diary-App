@@ -20,7 +20,10 @@ Some notable apps are:
     - Log journal entries and help set goals as you better plan ahead
     - See insights as you log your meals and water to help you make decisions
     - Get notifications throughout the day
-    
+
+![image](https://user-images.githubusercontent.com/101563800/233860680-cb11e6d1-ad19-465c-836d-7788c862d6cc.png)
+
+
 - [Carb Manager](https://www.carbmanager.com/) (Android & iOS) - 
 
 - [Ate](https://youate.com/) (Android & iOS) - 
