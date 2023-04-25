@@ -44,7 +44,7 @@ Here's a [link](https://apps.apple.com/us/app/your-food-journal/id1526909269) to
     
 </details>
 
-<details><summaryCarb Manager (Android & iOS)</summary>
+<details><summary>Carb Manager (Android & iOS)</summary>
 
 Carb Manager is an app that allows the user to count the amount of carbs and macros in their meal and take accountability for thier diet goals. It is designed to present data to the user in a visual format so that it makes it easier for them to stay on track with thier health goals, whether that's to lose weight, manage a long standing condition or just eat healthier.
 
@@ -54,6 +54,7 @@ Carb Manager is an app that allows the user to count the amount of carbs and mac
 
 Here's a [link](https://www.carbmanager.com/) to the app    
  
+</details>
 
 - [Ate](https://youate.com/) (Android & iOS) - 
 
@@ -61,7 +62,7 @@ Here's a [link](https://www.carbmanager.com/) to the app
 
 - [Food Diary See How You Eat App](https://play.google.com/store/apps/details?id=fi.seehowyoueat.shye&hl=en_GB&gl=US&pli=1) (Android) -
 
-    </details>
+    
 
 ## The user stories
 
