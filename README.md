@@ -77,6 +77,7 @@ Here's a [link](https://www.carbmanager.com/) to the app
 - As a person with diabetes, I would like a way to calculate the amount of insulin I should be taking with any given meal, so that I can better manage my diabetes.
 - As a person who's blood sugars fluctuate wildly, I would like a way of connecting directly with a Diabetic Dietician, so that they can give me expert advice about why my blood sugars may be fluctuating. 
 
+
 ## The design
 
 You can see the figma design [here]()
