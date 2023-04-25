@@ -30,7 +30,7 @@ Your Food Journal offers tips and insights as you keep logging what you eat to h
 
 ![image](https://user-images.githubusercontent.com/101563800/233860680-cb11e6d1-ad19-465c-836d-7788c862d6cc.png)
 
-**Elements that can be carried over**
+**Thoughts on the app**
     
 - Simple colour coded design
 - Titles at the top of the page
@@ -44,7 +44,16 @@ Here's a [link](https://apps.apple.com/us/app/your-food-journal/id1526909269) to
     
 </details>
 
-- [Carb Manager](https://www.carbmanager.com/) (Android & iOS) - 
+<details><summaryCarb Manager (Android & iOS)</summary>
+
+Carb Manager is an app that allows the user to count the amount of carbs and macros in their meal and take accountability for thier diet goals. It is designed to present data to the user in a visual format so that it makes it easier for them to stay on track with thier health goals, whether that's to lose weight, manage a long standing condition or just eat healthier.
+
+**Thoughts on the app**
+
+- 
+
+Here's a [link](https://www.carbmanager.com/) to the app    
+ 
 
 - [Ate](https://youate.com/) (Android & iOS) - 
 
