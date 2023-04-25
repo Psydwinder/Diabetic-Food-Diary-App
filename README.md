@@ -61,6 +61,7 @@ Here's a [link](https://www.carbmanager.com/) to the app
 
 - [Food Diary See How You Eat App](https://play.google.com/store/apps/details?id=fi.seehowyoueat.shye&hl=en_GB&gl=US&pli=1) (Android) -
 
+    </details>
 
 ## The user stories
 
