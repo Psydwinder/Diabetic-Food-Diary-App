@@ -63,8 +63,19 @@ Here's a [link](https://www.carbmanager.com/) to the app
 - [Food Diary See How You Eat App](https://play.google.com/store/apps/details?id=fi.seehowyoueat.shye&hl=en_GB&gl=US&pli=1) (Android) -
 
     
-
 ## The user stories
+
+**Core User Stories**
+
+- As a person with diabetes, I would like a way to take a picture of my meals and keep a record of them along with the amount of carbs in that meal, so that I can reflect upon my diet and make changes where needed.
+- As an impatient person, I would like a quick way of adding my meal to my journal, so that I am not wasting too much time filling in a form.
+- As a person who is easily bored, I would like a way to see my meal journal presented in a fun and interactive manner, so that I enjoy using the app.
+- As a person who gets frustrated easily, I would like an easy to navigate app that allows me to add and remove meals with ease, so that I don't get lost using thapp and give up.
+
+**Stretch goals**
+
+- As a person with diabetes, I would like a way to calculate the amount of insulin I should be taking with any given meal, so that I can better manage my diabetes.
+- As a person who's blood sugars fluctuate wildly, I would like a way of connecting directly with a Diabetic Dietician, so that they can give me expert advice about why my blood sugars may be fluctuating. 
 
 ## The design
 
