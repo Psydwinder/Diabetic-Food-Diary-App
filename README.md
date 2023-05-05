@@ -80,7 +80,7 @@ Here's a [link](https://www.carbmanager.com/) to the app
 
 ## The design
 
-You can see the figma design [here]()
+You can see the figma design [here](https://www.figma.com/file/Hc4Rva1BAPqCRNWheJLpkS/Diabetic-Food-Diary?type=design&node-id=0%3A1&t=18RCqSOFbAqbQJRH-1)
 
 ## The tech stack
 
