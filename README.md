@@ -82,6 +82,8 @@ Here's a [link](https://www.carbmanager.com/) to the app
 
 You can see the figma design [here](https://www.figma.com/file/Hc4Rva1BAPqCRNWheJLpkS/Diabetic-Food-Diary?type=design&node-id=0%3A1&t=18RCqSOFbAqbQJRH-1)
 
+You can see the clickable prototype [here](https://www.figma.com/proto/Hc4Rva1BAPqCRNWheJLpkS/Diabetic-Food-Diary?type=design&node-id=4-340&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A340)
+
 ## The tech stack
 
 ## The implementation
