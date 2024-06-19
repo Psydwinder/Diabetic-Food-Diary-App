@@ -1,6 +1,7 @@
 import { View, Text, Image,TextInput, TouchableOpacity } from 'react-native'
 import React from 'react'
 import { StatusBar } from 'expo-status-bar'
+import Animated,{FadeIn,FadeInUp,FadeOut} from 'react-native-reanimated'
 
 
 export default function LoginScreen() {
@@ -10,7 +11,7 @@ export default function LoginScreen() {
         <Image className="h-full w-full absolute" source={require('../assets/images/background.png')}/>
 
         <View className= "flex-row justify-around w-full absolute">
-            <Image className="h-[225] w-[90]" source={require('../assets/images/light.png')}/>
+            <Animated.Image entering={FadeInUp.delay(200).duration(1000).springify().damping(3)} className="h-[225] w-[90]" source={require('../assets/images/light.png')}/>
         </View>
 
         {/*Title and form*/}
